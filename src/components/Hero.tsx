@@ -28,7 +28,7 @@ const Hero = () => {
           Leading Arabic Language Technology
         </h1>
         <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-3xl mx-auto">
-          28+ years of pioneering research and development in advanced Arabic NLP solutions
+          40+ years of pioneering research and development in advanced Arabic NLP solutions
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <Button
