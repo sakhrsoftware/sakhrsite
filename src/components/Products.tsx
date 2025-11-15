@@ -28,7 +28,7 @@ const products = [
     title: "Text-to-Speech",
     subtitle: "Arabic TTS",
     description:
-      "Industry leader in synthesizing a natural, human-sounding Arabic voice. Leverages 28+ years of research and corpora development in Arabic NLP to overcome TTS challenges like lack of diacritics and punctuation.",
+      "Industry leader in synthesizing a natural, human-sounding Arabic voice. Leverages 40+ years of research and corpora development in Arabic NLP to overcome TTS challenges like lack of diacritics and punctuation.",
   },
   {
     icon: Database,

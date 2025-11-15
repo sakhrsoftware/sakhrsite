@@ -10,7 +10,7 @@ const About = () => {
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
             Sakhr Software Company is a pioneer and market leader in advanced Arabic language 
-            technology and solutions. With 28+ years of leading research and development in Arabic 
+            technology and solutions. With 40+ years of leading research and development in Arabic 
             computational linguistics, Sakhr has successfully transformed its research in Natural 
             Language Processing (NLP) into industry-first commercial software and solutions. 
             Governments and enterprises in multiple industries across the Arab region and beyond 
@@ -23,7 +23,7 @@ const About = () => {
             <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 text-primary mb-4">
               <Award size={32} />
             </div>
-            <h3 className="text-2xl font-bold text-foreground mb-3">28+ Years</h3>
+            <h3 className="text-2xl font-bold text-foreground mb-3">40+ Years</h3>
             <p className="text-muted-foreground">
               Leading research and development in Arabic computational linguistics
             </p>
