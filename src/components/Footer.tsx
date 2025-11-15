@@ -73,7 +73,7 @@ const Footer = () => {
                 <Twitter size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/company/sakhr.software"
+                href="https://www.linkedin.com/company/sakhr.software/posts/?feedView=all"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
